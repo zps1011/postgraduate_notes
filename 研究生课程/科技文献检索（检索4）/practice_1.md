@@ -62,6 +62,7 @@
 1. 进入 CNKI 网站：打开中国知网[https://www.cnki.net](https://www.cnki.net/)
 2. 选择高级检索：在首页点击“高级检索”按钮，进入高级检索页面。
 3. 设置检索条件：
+- 同义词查找：`低聚糖`又名`寡糖`
 - 在主题字段输入 低聚糖 * 分离。执行检索后，共找到 902 篇相关文献。
 
   ![zps1011](https://github.com/zps1011/postgraduate_notes/blob/main/%E7%A0%94%E7%A9%B6%E7%94%9F%E8%AF%BE%E7%A8%8B/%E7%A7%91%E6%8A%80%E6%96%87%E7%8C%AE%E6%A3%80%E7%B4%A2%EF%BC%88%E6%A3%80%E7%B4%A24%EF%BC%89/images/practice1-08.png)
