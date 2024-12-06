@@ -17,9 +17,9 @@
    </div>
 	
 3. 设置检索条件：
-- 在作者字段输入`葛飞`。此处选择`精确`
+- 在作者字段输入`葛飞`。选择`精确`检索。
 
-- 在作者单位字段输入`湘潭大学`。此处选择`模糊`。但输入 “湘潭大学环境与资源学院” 后发现查找不到文献。所以选择输入`湘潭大学`。
+- 在作者单位字段输入`湘潭大学`。选择`模糊`检索。但输入 “湘潭大学环境与资源学院” 后发现查找不到文献。所以选择输入`湘潭大学`。
 
   <div align=center>
   <img src="https://github.com/zps1011/postgraduate_notes/blob/main/%E7%A0%94%E7%A9%B6%E7%94%9F%E8%AF%BE%E7%A8%8B/%E7%A7%91%E6%8A%80%E6%96%87%E7%8C%AE%E6%A3%80%E7%B4%A2%EF%BC%88%E6%A3%80%E7%B4%A24%EF%BC%89/images/practice1-02.png" alt="设置检索条件"/>
@@ -43,13 +43,13 @@
    <img src="https://github.com/zps1011/postgraduate_notes/blob/main/%E7%A0%94%E7%A9%B6%E7%94%9F%E8%AF%BE%E7%A8%8B/%E7%A7%91%E6%8A%80%E6%96%87%E7%8C%AE%E6%A3%80%E7%B4%A2%EF%BC%88%E6%A3%80%E7%B4%A24%EF%BC%89/images/practice1-05.png" alt="被引排序"/>
    </div>
    
-6. 选择前3篇文献：从排序后的结果中选择被引次数最高的前3篇文献。
+6. 选择前 3 篇文献：从排序后的结果中选择被引次数最高的前 3 篇文献。如果在'已选'中不为 0 时，则需要点击“清除”，再重新选择文献。避免下载其它不相关的资料。
 
    <div align=center>
    <img src="https://github.com/zps1011/postgraduate_notes/blob/main/%E7%A0%94%E7%A9%B6%E7%94%9F%E8%AF%BE%E7%A8%8B/%E7%A7%91%E6%8A%80%E6%96%87%E7%8C%AE%E6%A3%80%E7%B4%A2%EF%BC%88%E6%A3%80%E7%B4%A24%EF%BC%89/images/practice1-06.png" alt="选择文献"/>
    </div>
    
-7. 导出文献信息：勾选这3篇文献，点击“导出与分析”按钮，选择需要导出的文献格式（如EndNote、NoteExpress等），如上图所示。然后点击“导出”。
+7. 导出文献信息：勾选被引最高的 3 篇文献，点击“导出与分析”按钮，选择需要导出的文献格式（如EndNote、NoteExpress等），如上图所示。然后点击“导出”。
 
    <div align=center>
    <img src="https://github.com/zps1011/postgraduate_notes/blob/main/%E7%A0%94%E7%A9%B6%E7%94%9F%E8%AF%BE%E7%A8%8B/%E7%A7%91%E6%8A%80%E6%96%87%E7%8C%AE%E6%A3%80%E7%B4%A2%EF%BC%88%E6%A3%80%E7%B4%A24%EF%BC%89/images/practice1-07.png" alt="导出文献格式"/>
@@ -59,7 +59,7 @@
 
 ### 二、请利用 CNKI 检索 “低聚糖分离” 方面的文献。
 
-1. 进入CNKI网站：打开中国知网[https://www.cnki.net](https://www.cnki.net/)
+1. 进入 CNKI 网站：打开中国知网[https://www.cnki.net](https://www.cnki.net/)
 2. 选择高级检索：在首页点击“高级检索”按钮，进入高级检索页面。
 3. 设置检索条件：
 - 在主题字段输入 低聚糖 * 分离。执行检索后，共找到 902 篇相关文献。
@@ -70,7 +70,7 @@
 
 ### 三、利用 CNKI 检索 “纳米二氧化硅气相燃烧制备技术及设备” 的相关文献。
 
-1. 进入CNKI网站：打开中国知网[https://www.cnki.net](https://www.cnki.net/)
+1. 进入 CNKI 网站：打开中国知网[https://www.cnki.net](https://www.cnki.net/)
 
 2. 选择高级检索：在首页点击“高级检索”按钮，进入高级检索页面。
 
