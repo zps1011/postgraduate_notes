@@ -104,6 +104,18 @@
 
 
 
+- 操作实例：
+
+  政府绩效评估；外语学习焦虑。下面以`外语学习焦虑`为例子进行检索。
+
+1. 进入CNKI网站：打开中国知网[https://www.cnki.net](https://www.cnki.net/)
+
+2. 选择高级检索：在首页点击“高级检索”按钮，进入高级检索页面。
+
+3. 设置检索条件：如下图所示，最后勾选`同义词扩展`。共检索到 83 篇文献。
+
+     ![zps1011](https://github.com/zps1011/postgraduate_notes/blob/main/%E7%A0%94%E7%A9%B6%E7%94%9F%E8%AF%BE%E7%A8%8B/%E7%A7%91%E6%8A%80%E6%96%87%E7%8C%AE%E6%A3%80%E7%B4%A2%EF%BC%88%E6%A3%80%E7%B4%A24%EF%BC%89/images/practice1-11.png)
+
 ### 参考资料
 
 - [术语在线](https://www.termonline.cn/)
