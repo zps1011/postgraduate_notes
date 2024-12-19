@@ -104,7 +104,7 @@
 
 ## 参考资料
 
-- [万方数据库知识服务平台操作指南](https://view.officeapps.live.com/op/view.aspx?src=https%3A%2F%2Flib.gdou.edu.cn%2Fengine%2Fupload%2Fengine%2F2022-03%2F202203141000291478.ppt&wdOrigin=BROWSELINK)
+- [万方数据知识服务平台操作指南](https://view.officeapps.live.com/op/view.aspx?src=https%3A%2F%2Flib.gdou.edu.cn%2Fengine%2Fupload%2Fengine%2F2022-03%2F202203141000291478.ppt&wdOrigin=BROWSELINK)
 
 
 ## 备注
