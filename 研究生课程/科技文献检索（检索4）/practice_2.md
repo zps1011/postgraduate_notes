@@ -52,7 +52,7 @@
    <img src="https://github.com/zps1011/postgraduate_notes/blob/main/%E7%A0%94%E7%A9%B6%E7%94%9F%E8%AF%BE%E7%A8%8B/%E7%A7%91%E6%8A%80%E6%96%87%E7%8C%AE%E6%A3%80%E7%B4%A2%EF%BC%88%E6%A3%80%E7%B4%A24%EF%BC%89/images/practice2-05.png" alt="选择文献"/>
    </div>
 
-6. 导出文献信息：勾选这3篇文献，点击“批量引用”按钮，选择需要导出的文献格式（如EndNote、NoteExpress等），如下图所示。然后符合自己需求的“导出”选项。
+6. 导出文献信息：勾选这3篇文献，点击“批量引用”按钮，选择需要导出的文献格式（如EndNote、NoteExpress等），如下图所示。然后点击符合自己需求的“导出”选项。
 
    <div align=center>
    <img src="https://github.com/zps1011/postgraduate_notes/blob/main/%E7%A0%94%E7%A9%B6%E7%94%9F%E8%AF%BE%E7%A8%8B/%E7%A7%91%E6%8A%80%E6%96%87%E7%8C%AE%E6%A3%80%E7%B4%A2%EF%BC%88%E6%A3%80%E7%B4%A24%EF%BC%89/images/practice2-06.png" alt="导出文献格式"/>
