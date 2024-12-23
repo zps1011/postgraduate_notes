@@ -1,0 +1,172 @@
+Web of Science 类别         	记录数	817的百分位
+
+Environmental                        148	    18.115
+Sciences                                	          
+Food Science                          90	    11.016
+Technology                              	          
+Oceanography                          76	     9.302
+Marine Freshwater                     63	     7.711
+Biology                                 	          
+Biochemistry                          49	     5.998
+Molecular Biology                       	          
+Fisheries                             46	     5.630
+Geosciences                           45	     5.508
+Multidisciplinary                       	          
+Nutrition Dietetics                   43	     5.263
+Pharmacology                          43	     5.263
+Pharmacy                                	          
+Chemistry                             40	     4.896
+Multidisciplinary                       	          
+Materials Science                     31	     3.794
+Multidisciplinary                       	          
+Engineering                           28	     3.427
+Environmental                           	          
+Chemistry Medicinal                   27	     3.305
+Chemistry Analytical                  24	     2.938
+Energy Fuels                          24	     2.938
+Green Sustainable                     24	     2.938
+Science Technology                      	          
+Microbiology                          21	     2.570
+Engineering Ocean                     20	     2.448
+Meteorology                           20	     2.448
+Atmospheric Sciences                    	          
+Multidisciplinary                     20	     2.448
+Sciences                                	          
+Engineering Civil                     18	     2.203
+Engineering Marine                    18	     2.203
+Veterinary Sciences                   18	     2.203
+Nanoscience                           17	     2.081
+Nanotechnology                          	          
+Physics Applied                       17	     2.081
+Biotechnology                         16	     1.958
+Applied Microbiology                    	          
+Chemistry Applied                     16	     1.958
+Neurosciences                         16	     1.958
+Water Resources                       16	     1.958
+Zoology                               15	     1.836
+Engineering Chemical                  14	     1.714
+Plant Sciences                        14	     1.714
+Chemistry Physical                    12	     1.469
+Geochemistry                          12	     1.469
+Geophysics                              	          
+Instruments                           12	     1.469
+Instrumentation                         	          
+Polymer Science                       12	     1.469
+Agriculture Dairy                     11	     1.346
+Animal Science                          	          
+Toxicology                            11	     1.346
+Ecology                               10	     1.224
+Biodiversity                           9	     1.102
+Conservation                            	          
+Immunology                             9	     1.102
+Engineering                            8	     0.979
+Electrical Electronic                   	          
+Environmental                          7	     0.857
+Studies                                 	          
+Geology                                7	     0.857
+Biochemical Research                   6	     0.734
+Methods                                 	          
+Biology                                6	     0.734
+Cell Biology                           6	     0.734
+Construction                           6	     0.734
+Building Technology                     	          
+Engineering                            6	     0.734
+Multidisciplinary                       	          
+Limnology                              6	     0.734
+Physics Condensed                      6	     0.734
+Matter                                  	          
+Public Environmental                   6	     0.734
+Occupational Health                     	          
+Chemistry Organic                      5	     0.612
+Electrochemistry                       5	     0.612
+Endocrinology                          5	     0.612
+Metabolism                              	          
+Mineralogy                             5	     0.612
+Mining Mineral                         5	     0.612
+Processing                              	          
+Remote Sensing                         5	     0.612
+Behavioral Sciences                    4	     0.490
+Chemistry Inorganic                    4	     0.490
+Nuclear                                 	          
+Genetics Heredity                      4	     0.490
+Infectious Diseases                    4	     0.490
+Mathematical                           4	     0.490
+Computational Biology                   	          
+Metallurgy                             4	     0.490
+Metallurgical Engineering               	          
+Virology                               4	     0.490
+Agriculture                            3	     0.367
+Multidisciplinary                       	          
+Agronomy                               3	     0.367
+Crystallography                        3	     0.367
+Developmental                          3	     0.367
+Biology                                 	          
+Imaging Science                        3	     0.367
+Photographic Technology                 	          
+Materials Science                      3	     0.367
+Biomaterials                            	          
+Materials Science                      3	     0.367
+Composites                              	          
+Optics                                 3	     0.367
+Computer Science                       2	     0.245
+Artificial Intelligence                 	          
+Computer Science                       2	     0.245
+Information Systems                     	          
+Gastroenterology                       2	     0.245
+Hepatology                              	          
+Geography Physical                     2	     0.245
+Hematology                             2	     0.245
+Mechanics                              2	     0.245
+Medicine Research                      2	     0.245
+Experimental                            	          
+Oncology                               2	     0.245
+Operations Research                    2	     0.245
+Management Science                      	          
+Physics                                2	     0.245
+Multidisciplinary                       	          
+Psychiatry                             2	     0.245
+Robotics                               2	     0.245
+Transportation                         2	     0.245
+Science Technology                      	          
+Biophysics                             1	     0.122
+Clinical Neurology                     1	     0.122
+Computer Science                       1	     0.122
+Interdisciplinary Applications               	          
+Computer Science                       1	     0.122
+Software Engineering                    	          
+Computer Science                       1	     0.122
+Theory Methods                          	          
+Economics                              1	     0.122
+Engineering                            1	     0.122
+Biomedical                              	          
+Engineering                            1	     0.122
+Geological                              	          
+Engineering                            1	     0.122
+Industrial                              	          
+Engineering                            1	     0.122
+Manufacturing                           	          
+Engineering                            1	     0.122
+Mechanical                              	          
+Evolutionary Biology                   1	     0.122
+Forestry                               1	     0.122
+Geriatrics                             1	     0.122
+Gerontology                             	          
+Integrative                            1	     0.122
+Complementary Medicine                  	          
+Materials Science                      1	     0.122
+Ceramics                                	          
+Materials Science                      1	     0.122
+Characterization Testing                	          
+Materials Science                      1	     0.122
+Coatings Films                          	          
+Mathematics                            1	     0.122
+Interdisciplinary Applications               	          
+Nuclear Science                        1	     0.122
+Technology                              	          
+Physics Fluids                         1	     0.122
+Plasmas                                 	          
+Physiology                             1	     0.122
+Reproductive Biology                   1	     0.122
+Telecommunications                     1	     0.122
+Thermodynamics                         1	     0.122
+Transportation                         1	     0.122
