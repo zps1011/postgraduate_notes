@@ -71,6 +71,15 @@
 <img src="https://github.com/zps1011/postgraduate_notes/blob/main/%E7%A0%94%E7%A9%B6%E7%94%9F%E8%AF%BE%E7%A8%8B/%E7%A7%91%E6%8A%80%E6%96%87%E7%8C%AE%E6%A3%80%E7%B4%A2%EF%BC%88%E6%A3%80%E7%B4%A24%EF%BC%89/images/practice3-07.png" alt="创建跟踪记录"/>
 </div>
 
+10. 引文报告：我们可以看到广东海洋大学综述类文献的相关信息。详细内容见：[引文报告](https://github.com/zps1011/postgraduate_notes/blob/main/%E7%A0%94%E7%A9%B6%E7%94%9F%E8%AF%BE%E7%A8%8B/%E7%A7%91%E6%8A%80%E6%96%87%E7%8C%AE%E6%A3%80%E7%B4%A2%EF%BC%88%E6%A3%80%E7%B4%A24%EF%BC%89/practice3_%E5%BC%95%E6%96%87%E6%8A%A5%E5%91%8A.xlsx)
+
+<div align=center>
+<img src="https://github.com/zps1011/postgraduate_notes/blob/main/%E7%A0%94%E7%A9%B6%E7%94%9F%E8%AF%BE%E7%A8%8B/%E7%A7%91%E6%8A%80%E6%96%87%E7%8C%AE%E6%A3%80%E7%B4%A2%EF%BC%88%E6%A3%80%E7%B4%A24%EF%BC%89/images/practice3-08.png" alt="引文报告信息"/>
+</div> 
+
+<div align=center>
+<img src="https://github.com/zps1011/postgraduate_notes/blob/main/%E7%A0%94%E7%A9%B6%E7%94%9F%E8%AF%BE%E7%A8%8B/%E7%A7%91%E6%8A%80%E6%96%87%E7%8C%AE%E6%A3%80%E7%B4%A2%EF%BC%88%E6%A3%80%E7%B4%A24%EF%BC%89/images/practice3-09.jpg" alt="按年份的被引频次和出版物分布"/>
+</div>
 
 
 ## 参考资料
