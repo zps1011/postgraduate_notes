@@ -81,6 +81,7 @@
 <img src="https://github.com/zps1011/postgraduate_notes/blob/main/%E7%A0%94%E7%A9%B6%E7%94%9F%E8%AF%BE%E7%A8%8B/%E7%A7%91%E6%8A%80%E6%96%87%E7%8C%AE%E6%A3%80%E7%B4%A2%EF%BC%88%E6%A3%80%E7%B4%A24%EF%BC%89/images/practice3-09.jpg" alt="按年份的被引频次和出版物分布"/>
 </div>
 
+11. h指数（h-index）：是一个用于评估研究人员、期刊、学术机构等学术影响力的混合量化指标。即学者发表的文章中，至少有 h 篇文章被引用了至少 h 次。换句话说，如果一个学者的 h 指数为 20，则表示这位学者已发表的论文中，每篇被引用了至少 20 次的论文总共有 20 篇。
 
 ## 参考资料
 
